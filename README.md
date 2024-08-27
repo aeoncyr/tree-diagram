@@ -1,6 +1,6 @@
 # Tree Diagram Relationship
 
-This program created to fulfill the requirements of the CAD-IT Code Test, submitted by Fajar Wira Adikusuma. This is a JavaScript program that processes user data stored in a JSON file, constructs a tree diagram representing the relationship between users, and creates a list of parents for each user in JSON format, and presents the results in the Command Line Interface (CLI).
+This program created to fulfill the requirements of Code Test in a particular company, submitted by Fajar W. Adikusuma. This is a JavaScript program that processes user data stored in a JSON file, constructs a tree diagram representing the relationship between users, and creates a list of parents for each user in JSON format, and presents the results in the Command Line Interface (CLI).
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
